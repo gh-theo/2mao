@@ -2,7 +2,7 @@
 
 # 二猫云(2mao)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/2mao) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/2mao) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 二猫云（2mao）主打 IEPL 机场订阅，常见叫法包括“二猫云 VPN”“二猫云梯子”和“二猫云机场”。它提供原生 IP 代理节点并兼容常用客户端；页面的 ¥89 年付小包适合低流量用户，需要按月付款或更多流量时，再比较其他档位的线路和使用场景。
 
